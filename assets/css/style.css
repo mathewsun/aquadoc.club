@@ -204,7 +204,7 @@ body {
 	font-family: 'Nunito';
 	font-size: 21px;
 	font-weight: 700;
-	color: #41CD52;
+	color: #4aaddc;
 	letter-spacing: 0;
 	line-height: 1;
 	text-transform: none;
@@ -233,23 +233,23 @@ body {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-  color: #41CD52;
+  color: #4aaddc;
 }
 
 .navbar-default .navbar-nav > .active > a {
   background: transparent;
-  color: #41CD52;
+  color: #4aaddc;
   }
 
 
 .navbar-default .navbar-nav > .active > a:hover {
     background: transparent;
-    color: #41CD52;
+    color: #4aaddc;
 }
 
 .navbar-default .navbar-nav > .active > a:focus {
 	background: transparent;
-  color: #41CD52;
+  color: #4aaddc;
 }
 
 .navbar-default .navbar-collapse {
@@ -274,10 +274,10 @@ body {
 }
 
 .navbar .btn-nav {
-  background: #41CD52;
+  background: #4aaddc;
   color: #FFFFFF;
   border-radius: 0.7rem;
-	box-shadow: 0 3px 10px rgba(65,205,82,.5);
+	box-shadow: 0 3px 10px rgba(100,188,226,.5);
   padding: 0.5rem 1.5rem;
   margin-left: 1.5rem !important;
   margin-top: 0.4rem;
@@ -295,10 +295,10 @@ body {
 
 
 .navbar .btn-nav:hover {
-  background: #41CD52 !important;
+  background: #4aaddc !important;
   color: #FFFFFF;
-  border-color: #41CD52 !important;
-	box-shadow: 0 5px 10px rgba(65,205,82,.5);
+  border-color: #4aaddc !important;
+	box-shadow: 0 5px 10px rgba(100,188,226,.5);
 }
 
 
@@ -338,11 +338,11 @@ body {
 	}
 
   .navbar-default .navbar-brand {
-    color: #41CD52;
+    color: #4aaddc;
   }
 
   .navbar-default .navbar-toggle .icon-bar {
-    background-color: #41CD52;
+    background-color: #4aaddc;
   }
 
 	.navbar .btn-nav {
@@ -376,11 +376,11 @@ body {
 }
 
 .navbar-default.past-main .navbar-brand {
-	color: #41CD52;
+	color: #4aaddc;
 }
 
 .navbar-default.past-main .navbar-toggle .icon-bar {
-	background-color: #41CD52;
+	background-color: #4aaddc;
 }
 
 .navbar-default.past-main .navbar-nav > li > a {
@@ -390,23 +390,23 @@ body {
 }
 
 .navbar-default.past-main .navbar-nav > li > a:hover {
-  color: #41CD52;
+  color: #4aaddc;
 }
 
 .navbar-default.past-main .navbar-nav > .active > a {
   background: transparent;
-  color: #41CD52;
+  color: #4aaddc;
   }
 
 
 .navbar-default.past-main .navbar-nav > .active > a:hover {
     background: transparent;
-    color: #41CD52;
+    color: #4aaddc;
 }
 
 .navbar-default.past-main .navbar-nav > .active > a:focus {
 	background: transparent;
-  color: #41CD52;
+  color: #4aaddc;
 }
 
 .navbar-default.past-main .btn-nav {
@@ -494,7 +494,7 @@ body {
 	font-size: 42px;
 	font-weight: 400;
   letter-spacing: -1px;
-	color: #41CD52;
+	color: #4aaddc;
 }
 
 .hero .intro p {
@@ -550,11 +550,11 @@ body {
 
 .btn-action {
   padding: 0.5rem 1.5rem;
-	background: #41CD52;
+	background: #4aaddc;
 	border: 1px solid;
-	border-color: #41CD52;
+	border-color: #4aaddc;
   border-radius: .125rem;
-	box-shadow: 0 10px 30px rgba(65,205,82,.5);
+	box-shadow: 0 10px 30px rgba(100,188,226,.5);
 	margin: 24px 12px 0 0;
 	-webkit-transition: 0.2s;
 	-moz-transition: 0.2s;
@@ -563,19 +563,19 @@ body {
 
 .btn-action:hover {
 	color: #FFFFFF;
-	border-color: #41CD52;
-	background: #41CD52;
+	border-color: #4aaddc;
+	background: #4aaddc;
 	-webkit-transform: translateY(-2px);
 	-moz-transform: translateY(-2px);
 	transform: translateY(-2px);
 }
 
 .intro .btn-action {
-	background: #41CD52;
+	background: #4aaddc;
 }
 
 .intro .btn-action:hover {
-	background: #41CD52;
+	background: #4aaddc;
 }
 
 .btn-action span {
@@ -695,7 +695,7 @@ body {
 	padding-left: 7px;
   text-decoration: none;
   text-align: center;
-  color: #41CD52;
+  color: #4aaddc;
 	background: #FFFFFF;
   font-size: 34px;
   font-weight: normal;
@@ -1102,7 +1102,7 @@ body {
 }
 
 .pricing-v2 .intro a {
-	color: #41CD52;
+	color: #4aaddc;
 	text-decoration: none;
 }
 
@@ -1134,9 +1134,9 @@ body {
 
 
 .pricing-v2 .btn-action:focus {
-	background: #41CD52;
+	background: #4aaddc;
 	outline: none;
-	border-color: #41CD52;
+	border-color: #4aaddc;
 }
 
 
@@ -1483,11 +1483,11 @@ body {
 
 .formee .right {
   height: 40px;
-  border: 2px solid #41CD52;
+  border: 2px solid #4aaddc;
   border-radius: 0 5px 5px 0;
   margin: 0;
   padding: 0 25px 0 25px;
-  background-color: #41CD52;
+  background-color: #4aaddc;
   color: #FFFFFF;
 	box-shadow: 0 0 1px transparent;
   outline: none;
@@ -1497,7 +1497,7 @@ body {
 }
 
 .formee .right:focus {
-	border: 2px solid #41CD52;
+	border: 2px solid #4aaddc;
 }
 
 #email-error {
@@ -1527,7 +1527,7 @@ body {
 }
 
 .main-2 .formee .right {
-	background-color: #41CD52;
+	background-color: #4aaddc;
 }
 
 /*------------ Footer Lg Styling ---------------*/
@@ -1594,7 +1594,7 @@ body {
 }
 
 .ft-right ul li a:hover {
-	color: #41CD52
+	color: #4aaddc
 }
 
 .footer .ft-right p {
